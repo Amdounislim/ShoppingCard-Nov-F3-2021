@@ -60,6 +60,7 @@ for (let i = 0; i < minus.length; i++) {
     })
 }
 
+/*******function sum */
 function sum(){
     let qte = Array.from(document.getElementsByClassName('qte'))
     let price = Array.from(document.getElementsByClassName('price'))
